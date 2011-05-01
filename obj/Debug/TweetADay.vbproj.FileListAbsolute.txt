@@ -1,0 +1,20 @@
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\bin\Debug\TweetADay.exe
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\bin\Debug\TweetADay.pdb
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\bin\Debug\TweetADay.xml
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\obj\Debug\TweetADay.Form1.resources
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\obj\Debug\TweetADay.Resources.resources
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\obj\Debug\TweetADay.vbproj.GenerateResource.Cache
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\obj\Debug\TweetADay.exe
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\obj\Debug\TweetADay.xml
+C:\Users\Edmund\AppData\Local\Temporary Projects\TweetADay\obj\Debug\TweetADay.pdb
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Debug\TweetADay.exe
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Debug\TweetADay.xml
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Debug\TweetADay.pdb
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\bin\Debug\TweetADay.exe
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\bin\Debug\TweetADay.pdb
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\bin\Debug\TweetADay.xml
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Debug\TweetADay.Resources.resources
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Debug\TweetADay.vbproj.GenerateResource.Cache
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Debug\TweetADay.frmMain.resources

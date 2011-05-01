@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/from:elmundio87 since:2010-02-11 until:2010-02-11</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=from%3Aelmundio87+since%3A2010-02-11+until%3A2010-02-11" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Aelmundio87&amp;until=2010-02-11&amp;since=2010-02-11&amp;page=2" rel="self"/>
+  <title>from:elmundio87 since:2010-02-11 until:2010-02-11 - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?page=2&amp;q=from%3Aelmundio87&amp;since=2010-02-11&amp;since_id=8975300815&amp;until=2010-02-11" rel="refresh"/>
+  <updated>2010-02-11T21:35:21+00:00</updated>
+</feed>

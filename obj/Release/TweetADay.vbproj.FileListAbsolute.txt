@@ -1,0 +1,10 @@
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\bin\Release\TweetADay.exe
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\bin\Release\TweetADay.pdb
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\bin\Release\TweetADay.xml
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Release\TweetADay.frmMain.resources
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Release\TweetADay.Resources.resources
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Release\TweetADay.vbproj.GenerateResource.Cache
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Release\TweetADay.exe
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Release\TweetADay.xml
+C:\Users\Edmund\Documents\Visual Studio 2008\Projects\TweetADay\TweetADay\obj\Release\TweetADay.pdb
